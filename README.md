@@ -6,5 +6,7 @@ algoritma kurma... gibi konuları içermektedir.
 Öğrenciler Dijital Oyun Tasarımı bölümünde 1. ve 2. sınıfta sanat ağırlıklı bir eğitim gördükleri için, öğrencilerin ve Dr. Öğr. Göv Özge Yıldız ve Öğr. Göv. Burak Kaya
 hocalarımın isteği üzerine 2 adet Workshop düzenledim. 
 
+Düzenlenen 1. Workshopta yazılımın temelleri esas alındığı için sadece windows console projesi üzerinden anlatım yaptım.
+
 Öğrencilere Yazılımı sevdirmek ve gözlerinin korkmasını engellemek için basit örneklerden daha karmaşık örneklere doğru ve olabildiğince eylenceli bir eğitim vermeye
 çalıştım.
